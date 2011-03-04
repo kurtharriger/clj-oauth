@@ -5,6 +5,7 @@
                  [com.twinql.clojure/clj-apache-http "2.3.1"]
                  [org.apache.httpcomponents/httpclient "4.1"]
                  [org.apache.httpcomponents/httpcore "4.1"]
-                 [org.apache.httpcomponents/httpmime "4.1"]]
+                 [org.apache.httpcomponents/httpmime "4.1"]
+                 [ring "0.3.6"]]
   :dev-dependencies [[swank-clojure "1.3.0-SNAPSHOT"]])
 
